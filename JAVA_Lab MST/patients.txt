@@ -1,0 +1,12 @@
+1001,Noddy,78,d
+1002,Alice,79,"Heart Problem"
+1003,"Bob",81,"Heart Problem"
+1004,Shibu,90,Heart Problem
+1005,"Homer",86,"Fever"
+1006,"Happy",54,"Cold"
+1007,Holi,19,Cough
+1008,Kitu,99,Heart Problem
+1009,Babu,87,Heart Problem
+1010,Fahhhh,88,Heart Problem
+1011,Doda,76,Vomit
+1012,Errrtttyyyuuu,33,Loose stool
